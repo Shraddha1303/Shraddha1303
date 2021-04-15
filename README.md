@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...shraddha13.patange@gmail.com
 - 😄 Pronouns: ...She / Her
-- ⚡ Fun fact: ...I am beauty with Brains ;)
+- ⚡ Fun fact: ...The famous person who inspires me most is Elon Musk or should I say Elon Mars ;)
 -->
