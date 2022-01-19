@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Python Programming
 - 🌱 I’m currently learning ...Software Development using Python
 - 👯 I’m looking to collaborate on ...Developing Python Projects
-- 🤔 I’m looking for help with ...Data Visualization techniques
+- 🤔 I’m looking for help with ...MySQL and Django/Flask framworks
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...shraddha13.patange@gmail.com
 - 😄 Pronouns: ...She / Her
