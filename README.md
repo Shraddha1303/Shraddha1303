@@ -4,11 +4,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Python Programming
-- 🌱 I’m currently learning ...Software Development using Python
+- 🌱 I’m currently learning ...Web Development using Django
 - 👯 I’m looking to collaborate on ...Developing Python Projects
-- 🤔 I’m looking for help with ...MySQL and Django/Flask framworks
+- 🤔 I’m looking for help with ...MySQL and Django/Flask frameworks
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...shraddha13.patange@gmail.com
+- 📫 How to reach me: ...shraddhapatange03@gmail.com
 - 😄 Pronouns: ...She / Her
-- ⚡ Fun fact: ...The famous person who inspires me most is Elon Musk or should I say Elon Mars ;)
+- ⚡ Fun fact: ...Why does Python live on land?
+-                  Because it is ablove C level!! ;P
 -->
