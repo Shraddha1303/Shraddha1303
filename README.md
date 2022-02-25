@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...shraddhapatange03@gmail.com
 - 😄 Pronouns: ...She / Her
-- ⚡ Fun fact: ...Why does Python live on land?
--                  Because it is ablove C level!! ;P
+- ⚡ Fun fact: ...Why does Python live on land?------>Because it is ablove C level!! ;P <-------
 -->
