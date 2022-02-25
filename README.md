@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...shraddhapatange03@gmail.com
 - 😄 Pronouns: ...She / Her
-- ⚡ Fun fact: ...Why does Python live on land?------>Because it is above C level!! ;P <-------
+- ⚡ Fun fact: ...Something I can improve about myself is my software knowledge, which is why I am fasinate about new technology.
 -->
